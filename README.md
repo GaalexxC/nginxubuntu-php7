@@ -63,7 +63,7 @@ The script by default uses the following structure but can be edited to accomada
         - backups
         - logs
         - public_html
-               - index.php
+              +-- index.php
         - ssl
         
         
