@@ -75,9 +75,9 @@ See [/src/auto_create_web.sh](https://github.com/GaryCornell/nginxubuntu-php7/bl
 
 2. wget https://github.com/GaryCornell/nginxubuntu-php7/archive/2.02.tar.gz
 
-3. tar -xvzf nginxubuntu-php7-2.02.tar.gz
+3. tar -xvzf 2.02.tar.gz
 
-4. cd nginxubuntu-php7-2.02/src
+4. cd nginxubuntu-php7-2.02/src/
 
 5. chmod u+x auto_create_web.sh
 
