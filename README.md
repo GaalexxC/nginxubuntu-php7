@@ -53,13 +53,15 @@ Uses a standard $HOME/$USER/public_html directory setup but can be edited for an
 
 ### Creates the following $HOME directory structure
 
+The script by default uses the following structure but can be edited to accomadate any type setup IE /var/www , /var/htdocs, etc...Your choice.
+
 - $HOME
     - $USER
         - _sessions
         - backups
         - logs
         - public_html
-               - index.php
+               ⋅⋅* index.php
         - ssl
         
         
