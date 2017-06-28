@@ -111,3 +111,7 @@ Created in 2016 for easy server setups. Further development is planned but any s
 ## PHP5 User?
 
 Use the PHP5 Ubuntu 12x | 14x version [nginxubuntu-php5](https://github.com/GaryCornell/nginxubuntu-php5)
+
+## Copyrights
+
+Created by Gary Cornell for devCU Software ©2017
