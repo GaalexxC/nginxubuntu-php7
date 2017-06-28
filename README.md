@@ -32,17 +32,17 @@ Uses a standard $HOME/$USER/public_html directory setup but can be edited for an
 
 - Optional php.ini updated and secured (recommended)
 
-- Optional Generates 2048 Diffie-Hellman for TLS (recommended)(OpenSSL required)
+- Generates 2048 Diffie-Hellman for TLS if it doesnt exist (recommended)(OpenSSL required)
 
 - Editable options see below
 
 ## Functions
 
-- Setup/Create Nginx directory structure, sites_available / sites_enabled / domain.vhost conf / conf.d
+- Setup/Create Nginx directory structure, sites_available / sites_enabled / domain.vhost conf / conf.d (if doesnt exist)
 
-- Updates cgi.fix_pathinfo=0 in fpm and cli php.ini and disables insecure PHP operations
+- Updates cgi.fix_pathinfo=0 in fpm and cli php.ini and disables insecure PHP operations (if doesnt exist)
 
-- Setup/Create php-fpm directory structure, domain.conf
+- Setup/Create php-fpm directory structure, domain.conf (if doesnt exist)
 
 - Setup/Create user/pass with domain/IP and public_html directory structure
 
