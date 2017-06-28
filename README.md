@@ -91,7 +91,7 @@ See [/src/auto_create_web.sh](https://github.com/GaryCornell/nginxubuntu-php7/bl
 
 Apache License 2.0
 
-## Development
+## Development / Contribute
 
 Created in 2016 and updated last in Jan 2017. Some further development is planned but any serious functionality issues or security issues will be addressed if discovered by me or reported by users.
 
