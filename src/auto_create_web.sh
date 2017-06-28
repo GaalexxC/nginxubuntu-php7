@@ -5,8 +5,8 @@
 # Created for Ubuntu 16x Servers running PHP 7 - Please Read Comments in Code for Proper Configuration
 # MAIN: http://www.devcu.com 
 # REPO: http://www.devcu.net
-# Created:   01/15/2013
-# Updated:   09/07/2016
+# Created:   06/15/2016
+# Updated:   06/28/2017
 
 # Default sytem values-
 # You may edit these to match your system setup
