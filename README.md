@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)  ![Version](https://img.shields.io/badge/Version-2.02-blue.svg)
+
 # nginxubuntu-php7
 
 <pre>
