@@ -94,11 +94,11 @@ Local Server: Go to your sites web address (EX: http://loacalhost:8080 ) and sta
 Remote Server: if your DNS is setup then you can access your site immediately (EX: http://www.domain.com )
 
 ## Proposed Additions (All optional)
-Percona MySQL 5.7 Server setup
-Bind9 DNS fully configured and ready to go
-Postfix/Dovecot mail server with all the bells and whistles
-vsftpd setup and configuration
-More? >:
+- Percona MySQL 5.7 Server setup
+- Bind9 DNS fully configured and ready to go
+- Postfix/Dovecot mail server with all the bells and whistles
+- vsftpd setup and configuration
+- More? >:
 
 ## License
 
