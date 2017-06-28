@@ -99,7 +99,7 @@ Apache License 2.0
 
 ## Development / Contribute
 
-Created in 2016 and updated last in Jan 2017. Some further development is planned but any serious functionality issues or security issues will be addressed if discovered by me or reported by users.
+Created in 2016 for easy server setups. Further development is planned but any serious functionality issues or security issues will be addressed if discovered by me or reported by users.
 
 ## PHP5 User?
 
