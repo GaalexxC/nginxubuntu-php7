@@ -50,7 +50,7 @@ Uses a standard $HOME/$USER/public_html directory setup but can be edited for an
 
 - Restarts via init.d nginx and php7.0-fpm
 
-- Adds index.php skel to directory
+- Adds index.php skel to public directory
 
 
 ### Creates the following $HOME directory structure
