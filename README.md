@@ -14,7 +14,7 @@
                 '--------------------------'
 </pre>
 
-A bash script that automates Nginx, PHP5x,  PHP-FPM and User/Domain setup in a couple minutes. For NEW/Fresh server installs but can be used to setup-add new user/domain and directory structure anytime
+A bash script that automates Nginx, PHP7,  PHP-FPM and User/Domain setup in a couple minutes. For NEW/Fresh server installs but can be used to setup-add new user/domain and directory structure anytime
 
 Created for Ubuntu 16x Servers but should work on all Debian flavors that support PHP7 - Please Read Comments in Code for Proper or custom Configuration
 
@@ -22,15 +22,15 @@ Uses a standard $HOME/$USER/public_html directory setup but can be edited for an
 
 ## Optional
 
-- Runs a apt-get update/upgrade if applicable
+- Optional runs a apt update/upgrade (recommended)
 
 - Optional install latest mainline Nginx (recommended)
 
 - Optional update to latest Linux Kernel (recommended)
 
-- Optional PHP5 install w/dependencies
+- Optional PHP7 install w/dependencies
 
-- Optional php.ini secured (recommended)
+- Optional php.ini updated and secured (recommended)
 
 - Optional Generates 2048 Diffie-Hellman for TLS (recommended)(OpenSSL required)
 
@@ -38,7 +38,7 @@ Uses a standard $HOME/$USER/public_html directory setup but can be edited for an
 
 ## Functions
 
-- Setup/Create Nginx directory structure, sites_available / sites_enabled / domain.vhost conf / /etc/nginx/conf.d
+- Setup/Create Nginx directory structure, sites_available / sites_enabled / domain.vhost conf / conf.d
 
 - Updates cgi.fix_pathinfo=0 in fpm and cli php.ini and disables insecure PHP operations
 
@@ -88,6 +88,10 @@ See [/src/auto_create_web.sh](https://github.com/GaryCornell/nginxubuntu-php7/bl
 7. Just follow the prompts
 
 8. Edit domain.vhost accordingly. The vhost is updated with the latest security features for SSL if using a cert you must uncomment and make sure paths are correct. The script sets up the standard path $HOME/$USER/ssl to cert/key/trusted_chain.pem but of course you must supply the files. root path/logs path/php-fpm unix socket and sessions paths are setup and work out of the box for you but can be edited for custom paths.
+
+9. Once completed:
+Local Server: Go to your sites web address (EX: http://loacalhost:8080 ) and start building immediately!
+Remote Server: if your DNS is setup then you can access your site immediately (EX: http://www.domain.com )
 
 ## License
 
