@@ -93,13 +93,20 @@ See [/src/auto_create_web.sh](https://github.com/GaryCornell/nginxubuntu-php7/bl
 Local Server: Go to your sites web address (EX: http://loacalhost:8080 ) and start building immediately!
 Remote Server: if your DNS is setup then you can access your site immediately (EX: http://www.domain.com )
 
+## Proposed Additions (All optional)
+Percona MySQL 5.7 Server setup
+Bind9 DNS fully configured and ready to go
+Postfix/Dovecot mail server with all the bells and whistles
+vsftpd setup and configuration
+More? >:
+
 ## License
 
 Apache License 2.0
 
 ## Development / Contribute
 
-Created in 2016 for easy server setups. Further development is planned but any serious functionality issues or security issues will be addressed if discovered by me or reported by users.
+Created in 2016 for easy server setups. Further development is planned but any serious functionality issues or security issues will be addressed if discovered by me or reported by users. I welcome code efficiency and optimization comments. I have extensive knowledge in server setup, security and optimization, whatever makes it easier is my moto. The issue is not if I can its if I have the time to...
 
 ## PHP5 User?
 
