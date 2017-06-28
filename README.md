@@ -59,7 +59,7 @@ Uses a standard $HOME/$USER/public_html directory setup but can be edited for an
         - backups
         - logs
         - public_html
-                      - index.php
+               - index.php
         - ssl
         
         
@@ -95,4 +95,4 @@ Created in 2016 and updated last in Jan 2017. Some further development is planne
 
 ## PHP5 User?
 
-Use the PHP5 Ubuntu 12x | 14x version [nginxubuntu-php7](https://github.com/GaryCornell/nginxubuntu-php5)
+Use the PHP5 Ubuntu 12x | 14x version [nginxubuntu-php5](https://github.com/GaryCornell/nginxubuntu-php5)
