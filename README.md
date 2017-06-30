@@ -38,7 +38,7 @@ Yes there are many of these scripts out there so why is this one different? Anyo
 
 - Optional php.ini updated and secured (recommended)
 
-- Generates 2048 Diffie-Hellman for TLS if it doesnt exist (recommended)(OpenSSL required)
+- Generates 2048 Diffie-Hellman for TLS if it doesnt exist (required)(OpenSSL required)
 
 - Editable options see below
 
