@@ -28,13 +28,13 @@ Yes there are many of these scripts out there so why is this one different? Anyo
 
 ## Optional
 
-- Optional runs a apt update/upgrade (recommended)
+- Optional performs system update (kernel included if applicable) (recommended)
 
 - Optional install (new systems) or upgrade latest mainline Nginx (recommended)
 
-- Optional PHP7 install w/dependencies
+- Optional PHP7 install w/dependencies (recommended)
 
-- Optional Percona MySQL Server 5.7 install and my.cnf optimization
+- Optional Percona MySQL Server 5.7 install
 
 - Optional php.ini updated and secured (recommended)
 
@@ -47,6 +47,8 @@ Yes there are many of these scripts out there so why is this one different? Anyo
 - Setup/Create Nginx directory structure, sites_available / sites_enabled / domain.vhost conf / conf.d (if doesnt exist)
 
 - Updates cgi.fix_pathinfo=0 in fpm and cli php.ini and disables dangerous PHP functions (if doesnt exist)
+
+- Optional my.cnf optimization ofr Percona MySQL Server
 
 - Setup/Create php-fpm directory structure, domain.conf (if doesnt exist)
 
