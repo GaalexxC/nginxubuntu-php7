@@ -16,7 +16,7 @@
                 '--------------------------'
 </pre>
 
-A bash script that automates Nginx, PHP7,  PHP-FPM and User/Domain setup in a couple minutes. For NEW/Fresh server installs but can be used to setup-add new user/domain and directory structure anytime
+A bash script that automates Nginx, PHP7,  PHP-FPM, Percona MySQL 5.7 and User/Domain setup in a couple minutes. For NEW/Fresh server installs but can be used to setup-add new user/domain and directory structure anytime
 
 Created for Ubuntu 16x Servers but should work on all Debian flavors that support PHP7 - Please Read Comments in Code for Proper or custom Configuration
 
