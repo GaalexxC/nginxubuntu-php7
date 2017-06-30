@@ -83,11 +83,11 @@ See [/src/auto_create_web.sh](https://github.com/GaryCornell/nginxubuntu-php7/bl
 
 1. cd /opt  (Any directory you choose is fine)
 
-2. wget https://github.com/GaryCornell/nginxubuntu-php7/archive/2.02.tar.gz
+2. wget https://github.com/GaryCornell/nginxubuntu-php7/archive/2.03.tar.gz
 
-3. tar -xvzf 2.02.tar.gz
+3. tar -xvzf nginxubuntu-php7-2.03.tar.gz
 
-4. cd nginxubuntu-php7-2.02/src/
+4. cd nginxubuntu-php7-2.03/src/
 
 5. chmod u+x auto_create_web.sh
 
