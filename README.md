@@ -56,7 +56,7 @@ Yes there are many of these scripts out there so why is this one different? Anyo
 
 - Sets all proper permissions on relevant directories.
 
-- Restarts via init.d nginx and php7.0-fpm
+- Restarts via init
 
 - Adds index.php skel to public directory
 
