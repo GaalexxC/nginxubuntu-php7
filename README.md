@@ -30,7 +30,7 @@ Yes there are many of these scripts out there so why is this one different? Well
 
 - Optional runs a apt update/upgrade (recommended)
 
-- Optional install latest mainline Nginx (recommended)
+- Optional install (new systems) or upgrade latest mainline Nginx (recommended)
 
 - Optional PHP7 install w/dependencies
 
