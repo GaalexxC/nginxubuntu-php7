@@ -32,9 +32,9 @@ Yes there are many of these scripts out there so why is this one different? Well
 
 - Optional install latest mainline Nginx (recommended)
 
-- Optional update to latest Linux Kernel (recommended)
-
 - Optional PHP7 install w/dependencies
+
+- Optional Percona MySQL Server 5.7 install and my.cnf optimization
 
 - Optional php.ini updated and secured (recommended)
 
@@ -51,6 +51,8 @@ Yes there are many of these scripts out there so why is this one different? Well
 - Setup/Create php-fpm directory structure, domain.conf (if doesnt exist)
 
 - Setup/Create user/pass with domain/IP and public_html directory structure
+
+- Setup/Create Nginx Gzip mime types and relevant directories (Set proper permissions)
 
 - Sets all proper permissions on relevant directories.
 
