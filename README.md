@@ -22,6 +22,10 @@ Created for Ubuntu 16x Servers but should work on all Debian flavors that suppor
 
 Uses a standard $HOME/$USER/public_html directory setup but can be edited for any type directory structure
 
+## Dime a dozen! So why this one?
+
+Yes there are many of these scripts out there so why is this one different? Well because its created by a 15 year experienced server admininstrator who specializes in security and optimization. Anyone can bash code "apt install nginx" but I have included secured and optimized configuration files as well as making sure all necessary directories are created and all permissions are correct on relevant directories. There are very few scripts that actually do the configuring as well making it possible to access your domain instaly with little or no additional configuration needed. Its throughly tested and in active development to add more features as well as update anything that needs updating. If anyone has suggestions or advice to better the script I am all ears.
+
 ## Optional
 
 - Optional runs a apt update/upgrade (recommended)
