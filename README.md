@@ -52,7 +52,7 @@ Yes there are many of these scripts out there so why is this one different? Anyo
 
 - Setup/Create user/pass with domain/IP and public_html directory structure
 
-- Setup/Create Nginx gzip mime types and relevant directories (editable in nginx.conf)
+- Setup/Create Nginx gzip mime types and relevant cache directories (editable in nginx.conf)
 
 - Sets all proper permissions on relevant directories.
 
