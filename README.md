@@ -46,13 +46,13 @@ Yes there are many of these scripts out there so why is this one different? Well
 
 - Setup/Create Nginx directory structure, sites_available / sites_enabled / domain.vhost conf / conf.d (if doesnt exist)
 
-- Updates cgi.fix_pathinfo=0 in fpm and cli php.ini and disables insecure PHP operations (if doesnt exist)
+- Updates cgi.fix_pathinfo=0 in fpm and cli php.ini and disables dangerous PHP functions (if doesnt exist)
 
 - Setup/Create php-fpm directory structure, domain.conf (if doesnt exist)
 
 - Setup/Create user/pass with domain/IP and public_html directory structure
 
-- Setup/Create Nginx Gzip mime types and relevant directories (Set proper permissions)
+- Setup/Create Nginx gzip mime types and relevant directories (Set proper permissions)
 
 - Sets all proper permissions on relevant directories.
 
