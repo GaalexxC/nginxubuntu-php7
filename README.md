@@ -48,11 +48,11 @@ Yes there are many of these scripts out there so why is this one different? Anyo
 
 - Updates cgi.fix_pathinfo=0 in fpm and cli php.ini and disables dangerous PHP functions (if doesnt exist)
 
-- Optional my.cnf optimization ofr Percona MySQL Server
+- Optional my.cnf optimization of Percona MySQL Server
 
 - Setup/Create php-fpm directory structure, domain.conf (if doesnt exist)
 
-- Setup/Create user/pass with domain/IP and public_html directory structure
+- Setup/Create user/pass with domain/IP and public directory structure
 
 - Setup/Create Nginx gzip mime types and relevant cache directories (editable in nginx.conf)
 
