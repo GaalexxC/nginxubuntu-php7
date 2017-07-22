@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)  ![Version](https://img.shields.io/badge/Version-2.03-blue.svg)  ![Development](https://img.shields.io/badge/Development-Active-blue.svg)
+![License](https://img.shields.io/badge/License-GNUv3-blue.svg)  ![Version](https://img.shields.io/badge/Version-2.03-blue.svg)  ![Development](https://img.shields.io/badge/Development-Active-blue.svg)
 
 # Nginx-Ubuntu for PHP7 v2.03
 
