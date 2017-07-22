@@ -1,6 +1,6 @@
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)  ![Version](https://img.shields.io/badge/Version-2.03-blue.svg)  ![Development](https://img.shields.io/badge/Development-Active-blue.svg)
 
-# nginxubuntu-php7
+# Nginx-Ubuntu for PHP7 v2.03
 
 <pre>
     .-"^`\                                        /`^"-.
@@ -11,8 +11,8 @@
 \   ||       |\_)      devCU Software      (_/|       ||   /
  \  | \  . \ ;  |         Presents         || ; / .  / |  /
   '\_\ \\ \ \ \ |                          ||/ / / // /_/'
-        \\ \ \ \|     Nginx Ubuntu 2.03    |/ / / //
-         `'-\_\_\       Setup Script       /_/_/-'`
+        \\ \ \ \|     Nginx Ubuntu PHP7    |/ / / //
+         `'-\_\_\     Setup Script 2.03    /_/_/-'`
                 '--------------------------'
 </pre>
 
