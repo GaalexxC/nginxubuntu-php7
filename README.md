@@ -112,7 +112,7 @@ Remote Server: if your DNS is setup then you can access your site immediately (E
 
 ## License
 
-Apache License 2.0
+GNU General Public License v3.0
 
 ## Development / Contribute
 
