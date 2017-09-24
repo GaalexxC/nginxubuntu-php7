@@ -3,7 +3,7 @@
 ```diff
 - WARNING! NO LONGER MAINTAINED, SCRIPT MAY STILL WORK BUT IT IS SUGGESTED TO USE MY ASAS SCRIPT INSTEAD
 ```
-[asas](https://github.com/GaryCornell/ASAS)
+[Auto Server Admin Script [ASAS] 2.10](https://github.com/GaryCornell/ASAS)
 
 # Nginx-Ubuntu for PHP7 v2.03
 
