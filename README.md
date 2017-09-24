@@ -1,5 +1,10 @@
 ![License](https://img.shields.io/badge/License-GNUv3-blue.svg)  ![Version](https://img.shields.io/badge/Version-2.03-blue.svg)  ![Development](https://img.shields.io/badge/Development-Active-blue.svg)
 
+```diff
+- WARNING! NO LONGER MAINTAINED, SCRIPT MAY STILL WORK BUT IT IS SUGGESTED TO USE MY ASAS SCRIPT INSTEAD
+```
+[asas](https://github.com/GaryCornell/ASAS)
+
 # Nginx-Ubuntu for PHP7 v2.03
 
 <pre>
