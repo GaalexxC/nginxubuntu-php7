@@ -116,7 +116,8 @@ GNU General Public License v3.0
 
 ## Development / Contribute
 
-Further development is planned but any serious functionality issues or security issues will be addressed if discovered by me or reported by users. I welcome code efficiency and optimization comments. I have extensive knowledge in server setup, security and optimization, whatever makes it easier is my moto. The issue is not if I can its if I have the time to...
+Further development is not planned but any serious functionality issues or security issues will be addressed if discovered by me or reported by users. I welcome code efficiency and optimization comments. I have extensive knowledge in server setup, security and optimization, whatever makes it easier is my moto. The issue is not if I can its if I have the time to...
+For newer more compatible script check out ASAS https://github.com/GaryCornell/ASAS
 
 ## PHP5 User?
 
